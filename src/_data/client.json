@@ -1,14 +1,13 @@
 {
-	"name": "Julian Avalos",
-	"email": "avalos916@gmail.com",
+	"name": "Central Axe Throwing",
+	"email": "centralaxethrowing@gmail.com",
 	"phoneForTel": "xxx-xxx-xxxx",
 	"phoneFormatted": "xxx-xxx-xxxx",
 	"address": {
-		"lineOne": "First Address Line",
-		"lineTwo": "Second Address Line",
+		"lineOne": "506 South Main Street",
 		"city": "Ellensburg",
 		"state": "WA",
 		"zip": "98926"
 	},
-	"domain": ""
+	"domain": "https://www.centralaxethrowing.com"
 }
